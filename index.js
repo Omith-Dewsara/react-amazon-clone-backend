@@ -30,4 +30,4 @@ app.post("/payment/create", async (req, res) => {
 	})
 })
 
-app.listen(port, () => console.log(`Severis up and running on PORT ${port}`));
+app.listen(port, () => console.log(`Sever is up and running on PORT ${port}`));
